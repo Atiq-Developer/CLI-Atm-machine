@@ -1,0 +1,24 @@
+{
+  "name": "@muhammadatiq72315/atm-machine",
+  "version": "1.0.1",
+  "description": "The project is about Atm machine",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "@muhammadatiq72315/atm-machine": "Atm.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
